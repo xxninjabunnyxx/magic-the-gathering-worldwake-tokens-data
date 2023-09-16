@@ -1,0 +1,172 @@
+---
+object: card
+id: 1c5a05d3-7824-4570-b32d-91fe2dced952
+oracle_id: '079c46cc-feb0-4998-8593-c8b739afdb82'
+multiverse_ids: []
+tcgplayer_id: 78510
+name: Elephant
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/1c5a05d3-7824-4570-b32d-91fe2dced952
+scryfall_uri: https://scryfall.com/card/twwk/4/elephant?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.jpg?1561756757
+  normal: https://cards.scryfall.io/normal/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.jpg?1561756757
+  large: https://cards.scryfall.io/large/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.jpg?1561756757
+  png: https://cards.scryfall.io/png/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.png?1561756757
+  art_crop: https://cards.scryfall.io/art_crop/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.jpg?1561756757
+  border_crop: https://cards.scryfall.io/border_crop/front/1/c/1c5a05d3-7824-4570-b32d-91fe2dced952.jpg?1561756757
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Elephant
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 1c5a05d3-7824-4570-b32d-91fe2dced952
+  component: token
+  name: Elephant
+  type_line: Token Creature — Elephant
+  uri: https://api.scryfall.com/cards/1c5a05d3-7824-4570-b32d-91fe2dced952
+- object: related_card
+  id: b4abdf1c-a0a9-4e1d-b448-58742830f767
+  component: combo_piece
+  name: Elephant Ambush
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/b4abdf1c-a0a9-4e1d-b448-58742830f767
+- object: related_card
+  id: e66d2f62-8a4a-4e8d-93e1-5dc802684106
+  component: combo_piece
+  name: Terastodon
+  type_line: Creature — Elephant
+  uri: https://api.scryfall.com/cards/e66d2f62-8a4a-4e8d-93e1-5dc802684106
+- object: related_card
+  id: 8f439a94-c3fa-4813-abbb-a39200a88bc7
+  component: combo_piece
+  name: Trumpeting Herd
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/8f439a94-c3fa-4813-abbb-a39200a88bc7
+- object: related_card
+  id: 426b63f9-5788-45d2-b934-1579320bc775
+  component: combo_piece
+  name: Selvala's Charge
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/426b63f9-5788-45d2-b934-1579320bc775
+- object: related_card
+  id: a586aded-9aca-41b1-9530-274ac3758701
+  component: combo_piece
+  name: Elephant Guide
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/a586aded-9aca-41b1-9530-274ac3758701
+- object: related_card
+  id: 680bc22c-a80c-44db-aacd-aa80982202b9
+  component: combo_piece
+  name: Call of the Herd
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/680bc22c-a80c-44db-aacd-aa80982202b9
+- object: related_card
+  id: f5453591-6377-40de-892c-e8dd46687d11
+  component: combo_piece
+  name: Kazandu Tuskcaller
+  type_line: Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/f5453591-6377-40de-892c-e8dd46687d11
+- object: related_card
+  id: 434b99c2-26f5-4d45-8453-77d9dedb7892
+  component: combo_piece
+  name: Bestial Menace
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/434b99c2-26f5-4d45-8453-77d9dedb7892
+- object: related_card
+  id: 757f0bac-5b59-4e5c-9954-35b7684a367e
+  component: combo_piece
+  name: Generous Gift
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/757f0bac-5b59-4e5c-9954-35b7684a367e
+- object: related_card
+  id: 9b2ca0a2-0a18-4d9e-b953-52018af3c65b
+  component: combo_piece
+  name: Assault // Battery
+  type_line: Sorcery // Sorcery
+  uri: https://api.scryfall.com/cards/9b2ca0a2-0a18-4d9e-b953-52018af3c65b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 066f22e0-c762-4222-8d99-ff262ead231e
+set: twwk
+set_name: Worldwake Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/066f22e0-c762-4222-8d99-ff262ead231e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atwwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/twwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1c5a05d3-7824-4570-b32d-91fe2dced952/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A079c46cc-feb0-4998-8593-c8b739afdb82&unique=prints
+collector_number: '4'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lars Grant-West
+artist_ids:
+- 21ed6499-c4d3-4965-ab02-6c7228275bec
+illustration_id: 0fe3c48b-f071-458f-9320-fa34b7e5d8cb
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elephant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elephant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elephant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78510?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elephant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elephant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

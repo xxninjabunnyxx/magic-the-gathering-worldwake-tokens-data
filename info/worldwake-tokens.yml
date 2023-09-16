@@ -1,0 +1,18 @@
+---
+object: set
+id: 066f22e0-c762-4222-8d99-ff262ead231e
+code: twwk
+name: Worldwake Tokens
+uri: https://api.scryfall.com/sets/066f22e0-c762-4222-8d99-ff262ead231e
+scryfall_uri: https://scryfall.com/sets/twwk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atwwk&unique=prints
+released_at: '2010-02-05'
+set_type: token
+card_count: 6
+parent_set_code: wwk
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: zen
+block: Zendikar
+icon_svg_uri: https://svgs.scryfall.io/sets/wwk.svg?1694404800

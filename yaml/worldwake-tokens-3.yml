@@ -1,0 +1,118 @@
+---
+object: card
+id: a99c10f3-9f11-42f1-9007-c0320a1929e0
+oracle_id: e42753ba-6c59-40d1-9fb5-4282dcc4b14f
+multiverse_ids: []
+tcgplayer_id: 78511
+name: Ogre
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/a99c10f3-9f11-42f1-9007-c0320a1929e0
+scryfall_uri: https://scryfall.com/card/twwk/3/ogre?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.jpg?1561757790
+  normal: https://cards.scryfall.io/normal/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.jpg?1561757790
+  large: https://cards.scryfall.io/large/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.jpg?1561757790
+  png: https://cards.scryfall.io/png/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.png?1561757790
+  art_crop: https://cards.scryfall.io/art_crop/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.jpg?1561757790
+  border_crop: https://cards.scryfall.io/border_crop/front/a/9/a99c10f3-9f11-42f1-9007-c0320a1929e0.jpg?1561757790
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Ogre
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: a99c10f3-9f11-42f1-9007-c0320a1929e0
+  component: token
+  name: Ogre
+  type_line: Token Creature — Ogre
+  uri: https://api.scryfall.com/cards/a99c10f3-9f11-42f1-9007-c0320a1929e0
+- object: related_card
+  id: '09154170-70f5-45ca-8903-027ad04bc98b'
+  component: combo_piece
+  name: Kazuul, Tyrant of the Cliffs
+  type_line: Legendary Creature — Ogre Warrior
+  uri: https://api.scryfall.com/cards/09154170-70f5-45ca-8903-027ad04bc98b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 066f22e0-c762-4222-8d99-ff262ead231e
+set: twwk
+set_name: Worldwake Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/066f22e0-c762-4222-8d99-ff262ead231e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atwwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/twwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a99c10f3-9f11-42f1-9007-c0320a1929e0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae42753ba-6c59-40d1-9fb5-4282dcc4b14f&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Paul Bonner
+artist_ids:
+- db74e463-9c78-4f45-80a9-efa5cc4f9841
+illustration_id: 46f41fcc-574a-4fe6-bc81-f21d2c88045b
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '2.18'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ogre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ogre
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78511?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ogre&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ogre&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
